@@ -11,4 +11,5 @@ const country = [
 
 console.table(country);
 ```
+## Screenshot of console table
 ![Screenshot of console table](/Capture.JPG)
