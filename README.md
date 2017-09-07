@@ -11,4 +11,4 @@ const country = [
 
 console.table(country);
 ```
-![Screenshot of console table](/images/image.jpg)
+![Screenshot of console table](https://github.com/Sukhwinder222/Comp2112-Lab1/blob/master/Capture.JPG)
