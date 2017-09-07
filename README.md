@@ -11,3 +11,4 @@ const country = [
 
 console.table(country);
 ```
+![Screenshot of console table](/images/image.jpg)
